@@ -1,6 +1,6 @@
 # Hi! I'm Yev 🤖
 ### About me 🚀
-#### I am a novice specialist in cyber security 🕸️. My path began with guides on YouTube and knowledge of what is a network to personal audits of companies, pentest-entrusts and interaction with large SOC, from which I get useful information to this day. I hope we work out, and everyone who harshly hacks the systems will be punished by law =).
+#### I am a novice specialist in cyber security 🕸️. My path began with guides on YouTube and knowledge of what is a network, to personal audits of companies, pentest-entrusts and interaction with large SOC, from which I get useful information to this day. I hope we work out, and everyone who harshly hacks the systems will be punished by law =).
 ---
 | Certificates | Done |
 |-------------|-------------|
