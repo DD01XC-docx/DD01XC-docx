@@ -60,4 +60,9 @@
 | CISSP | ❌ |
 | CEH | ❌ |
 ---
+### 📫 Contact
+
+📧 nentisoff@gmail.com
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/yevgenii-moskalenko-681773277/)
 
