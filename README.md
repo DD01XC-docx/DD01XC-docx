@@ -1,7 +1,21 @@
 # Hi! I'm Yev 🤖
-### About me 🚀
+### About Me 🚀
 #### I am a novice specialist in cyber security 🕸️. My path began with guides on YouTube and learning about networks, followed by personal audits of companies, pentest-entrusts, and interaction with large SOCs, from which I continue to gain useful information. I hope we work together well, and that those who harshly hack systems are punished by law =).
+### What I Do 🎯
+🔍 Penetration Testing – Identifying vulnerabilities, exploiting weaknesses, and strengthening security.
+
+🔬 Malware Analysis – Examining malicious software behavior and identifying threats.
+
+🖥 Reverse Engineering – Decompiling binaries and analyzing software for security flaws.
+
+📡 Network Security – Monitoring traffic, detecting anomalies, and securing network infrastructures.
+
+🕵️‍♂️ Digital Forensics – Investigating cyber incidents, analyzing disk images, and extracting evidence.
+
+🛡 Incident Response – Understanding cyber threats, responding to attacks, and mitigating risks.
+
 ---
+#### 
 ### The most frequent-advisable sources and tools 🛠️
 <a href="https://www.hackerone.com" target="_blank">
   <img src="https://github.com/user-attachments/assets/fb306afe-872a-4a94-9545-9267f0e5b964" width="50" />
