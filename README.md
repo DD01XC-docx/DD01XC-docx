@@ -64,5 +64,5 @@
 
 📧 nentisoff@gmail.com
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/yevgenii-moskalenko-681773277/)
+🔗 **[LinkedIn](www.linkedin.com/in/yevhenii-moskalenko-681773277)
 
