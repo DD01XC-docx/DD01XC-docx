@@ -19,9 +19,9 @@
 |-------------|-------------|
 | Google Cybersecurity Certificate    | ✅ |    
 | CompTIA Security+ | ❌ |
-| СompTIA PenTest+ | ❌ |
-| CISSP | ❌ |
-| CEH | ❌ |
+| CompTIA CySA+ | ❌ |
+| (ISC)² SSCP | ❌ |
+| (ISC)² CISSP | ❌ |
 ---
 ### 📫 Contact
 
