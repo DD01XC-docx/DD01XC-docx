@@ -1,4 +1,4 @@
-# Hi! I'm Yevhenii 🤖
+# Hi! I'm Eivind 🤖
 ### About Me 🚀
 #### I am a novice specialist in cyber security 🕸️. My path began with guides on YouTube and learning about networks, followed by personal audits of companies, pentest-entrusts, and interaction with large SOCs, from which I continue to gain useful information. I hope we work together well, and that those who harshly hack systems are punished by law =).
 ### What I Do 🎯
@@ -25,7 +25,7 @@
 ---
 ### 📫 Contact
 
-📧 nentisoff@gmail.com
+📧 heivind23@gmail.com
 
-🔗 **[LinkedIn](www.linkedin.com/in/yevhenii-moskalenko-681773277)
+🔗 **[LinkedIn](www.linkedin.com/in/eivind-hansen-681773277)
 
