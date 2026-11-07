@@ -57,7 +57,7 @@ I build complete web applications, from database schema and backend APIs to the 
 | [**Double-Entry Accounting System**](https://github.com/DD01XC-docx/double-entry-accounting-system) | Bookkeeping engine based on the NS 4102 chart of accounts. Balance enforced at database level, role-based access, Redis cache, MongoDB ETL staging. | PostgreSQL, Redis, MongoDB, FastAPI, Docker |
 | [**sentryscan**](https://github.com/DD01XC-docx/sentryscan) | Static security analyzer for source code with a plugin architecture for custom checks. | Python |
 | [**Blue Zone**](https://github.com/DD01XC-docx/bluzonelocal) | Event-driven microservices for telecom incident handling: alarms, tickets, customers, notifications. | Kotlin, Spring Boot, Kafka, React, TypeScript |
-| [**Student association website**](https://github.com/3gzy/ukrainsk-studentforening) | Website for a student association with user accounts, profiles, events and an admin panel. | Next.js, TypeScript, Tailwind CSS, Supabase |
+| [**Student association website**]([https://github.com/3gzy/ukrainsk-studentforening](https://ukrainskstudentforening.no/)) | Website for a student association with user accounts, profiles, events and an admin panel. | Next.js, TypeScript, Tailwind CSS, Supabase |
 | [**Spotted**](https://spotted-app-fawn.vercel.app/) | Restaurant discovery app. MVP built at the Pangstart 2026 hackathon. | Next.js, Vercel |
 
 ## Certifications
