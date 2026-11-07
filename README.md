@@ -41,8 +41,9 @@
 | Project | Description | Stack |
 |---|---|---|
 | [**sentryscan**](https://github.com/YOUR_USERNAME/sentryscan) | Static security analyzer for source code with a plugin-based architecture for custom checks | Python |
-| [**SecureVote**](https://github.com/YOUR_USERNAME/securevote) | Digital democracy platform — semester project (DATA3710) | TBD |
-| [**Restaurant discovery app**](https://github.com/YOUR_USERNAME/REPO) | MVP built at the Pangstart 2026 hackathon | TBD |
+| [**SecureVote**](https://github.com/YOUR_USERNAME/securevote) | Digital democracy platform — semester project (DATA3710, Work in progress) | Java, Python |
+| [**Access Monitoring Service**](https://github.com/DD01XC-docx/access-monitoring-service) | Authentication activity tracking & access analytics dashboard — portfolio project (Work in progress) | Java, JavaScript |
+| [**Restaurant discovery app**]([https://github.com/YOUR_USERNAME/REPO](https://spotted-app-fawn.vercel.app/)) | MVP built at the Pangstart 2026 hackathon  | Next.js, Vercel |
 
 ### 📜 Certifications
 
