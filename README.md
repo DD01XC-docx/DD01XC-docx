@@ -21,12 +21,9 @@ I build complete web applications, from database schema and backend APIs to the 
 
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
 **Frontend**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -56,8 +53,7 @@ I build complete web applications, from database schema and backend APIs to the 
 | [**Access Monitoring Service**](https://github.com/DD01XC-docx/access-monitoring-service) | Records authentication events and presents them in an access analytics dashboard. Stateless JWT auth, BCrypt hashing. *In progress.* | Java 21, Spring Boot, Spring Security, PostgreSQL, JavaScript |
 | [**Double-Entry Accounting System**](https://github.com/DD01XC-docx/double-entry-accounting-system) | Bookkeeping engine based on the NS 4102 chart of accounts. Balance enforced at database level, role-based access, Redis cache, MongoDB ETL staging. | PostgreSQL, Redis, MongoDB, FastAPI, Docker |
 | [**sentryscan**](https://github.com/DD01XC-docx/sentryscan) | Static security analyzer for source code with a plugin architecture for custom checks. | Python |
-| [**Blue Zone**](https://github.com/DD01XC-docx/bluzonelocal) | Event-driven microservices for telecom incident handling: alarms, tickets, customers, notifications. | Kotlin, Spring Boot, Kafka, React, TypeScript |
-| [**Student association website**]([https://github.com/3gzy/ukrainsk-studentforening](https://ukrainskstudentforening.no/)) | Website for a student association with user accounts, profiles, events and an admin panel. | Next.js, TypeScript, Tailwind CSS, Supabase |
+| [**Student association website**](https://ukrainskstudentforening.no/) | Production website for a student association with user accounts, profiles, events and an admin panel. [Source](https://github.com/3gzy/ukrainsk-studentforening) | Next.js, TypeScript, Tailwind CSS, Supabase |
 | [**Spotted**](https://spotted-app-fawn.vercel.app/) | Restaurant discovery app. MVP built at the Pangstart 2026 hackathon. | Next.js, Vercel |
 
 ## Certifications
