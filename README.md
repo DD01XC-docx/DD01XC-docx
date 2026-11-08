@@ -51,7 +51,7 @@ I build complete web applications, from database schema and backend APIs to the 
 | Project | Description | Stack |
 |---|---|---|
 | [**SecureVote**](https://github.com/SecureVoteProject/securevote) | Digital democracy platform, DATA3710 semester project. Responsible for security testing across all components. *In progress.* | Java, Python, Docker, Nginx |
-| [**Access Monitoring Service**](https://github.com/DD01XC-docx/access-monitoring-service) | Records authentication events and presents them in an access analytics dashboard. Stateless JWT auth, BCrypt hashing. *In progress.* | Java 21, Spring Boot, Spring Security, PostgreSQL, JavaScript |
+| [**Access Monitoring Service**](https://access-monitoring-service.onrender.com/) | Records authentication events and presents them in an access analytics dashboard. Stateless JWT auth, BCrypt hashing, login lockout. [Source](https://github.com/DD01XC-docx/access-monitoring-service) · *In progress.* | Java 21, Spring Boot, Spring Security, PostgreSQL, React, TypeScript |
 | [**Double-Entry Accounting System**](https://github.com/DD01XC-docx/double-entry-accounting-system) | Bookkeeping engine based on the NS 4102 chart of accounts. Balance enforced at database level, role-based access, Redis cache, MongoDB ETL staging. | PostgreSQL, Redis, MongoDB, FastAPI, Docker |
 | [**sentryscan**](https://github.com/DD01XC-docx/sentryscan) | Static security analyzer for source code with a plugin architecture for custom checks. | Python |
 | [**Student association website**](https://ukrainskstudentforening.no/) | Production website for a student association with user accounts, profiles, events and an admin panel. [Source](https://github.com/3gzy/ukrainsk-studentforening) | Next.js, TypeScript, Tailwind CSS, Supabase |
